@@ -1,0 +1,5 @@
+<p> Choose your favroite season: </p>  
+<input type="radio" name="JTP" id="summer" value="summer">Summer<br>   
+<input type="radio" name="JTP" id="winter" value="winter">Winter<br>   
+<input type="radio" name="JTP" id="rainy" value="rainy">Rainy<br>  
+<input type="radio" name="JTP" id="autumn" value="autumn">Autumn<br>  
